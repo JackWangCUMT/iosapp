@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>http://www.microstarsoft.com:28080/ipa/cmcapp.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://www.microstarsoft.com:28080/ipa/ipacmcapp.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://www.microstarsoft.com:28080/ipa/ipacmcapp.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
